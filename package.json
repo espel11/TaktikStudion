@@ -1,0 +1,23 @@
+{
+  "name": "taktikstudion",
+  "version": "1.0.0",
+  "description": "Statisk fotbollsstudio med formationer, keyframes, motståndare och bild-/videoexport.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espel11/TaktikStudion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espel11/TaktikStudion/issues"
+  },
+  "homepage": "https://github.com/espel11/TaktikStudion#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
